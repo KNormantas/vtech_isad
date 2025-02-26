@@ -1,0 +1,407 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;End&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An End represents the ultimate outcomes that the business aims to achieve. It encompasses the overall aspirations and desired states that guide the organization's efforts.\" id=\"2\"&gt;&lt;mxCell style=\"swimlane;whiteSpace=wrap;html=1;\" vertex=\"1\" collapsed=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"86\" height=\"26\" as=\"geometry\"&gt;&lt;mxRectangle x=\"-401\" y=\"-266\" width=\"238\" height=\"247\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 86,
+    "h": 26,
+    "aspect": "fixed",
+    "title": "End"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Desired Result&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Desired Result is a specific outcome that the organization wants to achieve. It can be further categorized into goals and objectives. Desired results are more concrete and measurable compared to the vision.\" id=\"2\"&gt;&lt;mxCell style=\"swimlane;whiteSpace=wrap;html=1;\" vertex=\"1\" collapsed=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"147\" height=\"26\" as=\"geometry\"&gt;&lt;mxRectangle x=\"-258\" y=\"-266\" width=\"200\" height=\"200\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 147,
+    "h": 26,
+    "aspect": "fixed",
+    "title": "Desired Result"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Means&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Means is some &amp;quot;device, capability, regime, technique, restriction, agency, instrument, or method that may be called upon, activated, or enforced to achieve Ends.&amp;quot; It does not include the tasks (business processes and workflow) necessary to exploit it, or responsibility for such tasks. Typically Means are organized into Mission, Courses of Action, and Directives.\" id=\"2\"&gt;&lt;mxCell style=\"swimlane;whiteSpace=wrap;html=1;startSize=23;\" vertex=\"1\" collapsed=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"116\" height=\"26\" as=\"geometry\"&gt;&lt;mxRectangle x=\"-399\" y=\"-191\" width=\"200\" height=\"200\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 116,
+    "h": 26,
+    "aspect": "fixed",
+    "title": "Means"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Course of Action&amp;amp;gt;&amp;amp;gt;\" tooltip=\"Courses of Action are the decisions made by the enterprise about what actions to take. They go beyond just resources, skills, or competencies, and involve configuring various aspects of the enterprise (such as processes, locations, people, and time) to direct efforts towards achieving Desired Results. They represent the enterprise's chosen methods for utilizing its resources, skills, and competencies effectively.\" id=\"2\"&gt;&lt;mxCell style=\"swimlane;whiteSpace=wrap;html=1;\" vertex=\"1\" collapsed=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"132\" height=\"26\" as=\"geometry\"&gt;&lt;mxRectangle x=\"-226\" y=\"-201\" width=\"200\" height=\"200\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 132,
+    "h": 26,
+    "aspect": "fixed",
+    "title": "Course of Action"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Directive&amp;amp;gt;&amp;amp;gt;\" tooltip=\"Directives are divided into Business Policies and Business Rules. Business Policies are not directly actionable, while Business Rules are and need to be defined and managed for consistency and completeness. Business Rules are derived from Business Policies.\" id=\"2\"&gt;&lt;mxCell style=\"swimlane;whiteSpace=wrap;html=1;\" vertex=\"1\" collapsed=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"126\" height=\"26\" as=\"geometry\"&gt;&lt;mxRectangle x=\"-392\" y=\"-94\" width=\"200\" height=\"200\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 126,
+    "h": 26,
+    "aspect": "fixed",
+    "title": "Directive"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Influencer&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An Influencer is any factor that can cause changes impacting the enterprise's use of its Means or the achievement of its Ends. It can also confirm the absence of expected changes. Influencers can be either internal (originating within the enterprise) or external (originating outside the enterprise).\" id=\"2\"&gt;&lt;mxCell style=\"swimlane;whiteSpace=wrap;html=1;\" vertex=\"1\" collapsed=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"26\" as=\"geometry\"&gt;&lt;mxRectangle x=\"-273\" y=\"220\" width=\"200\" height=\"200\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 26,
+    "aspect": "fixed",
+    "title": "Influencer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Amplifies&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Goal Amplifies a Vision\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" label=\"A Goal Amplifies a Vision\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Amplifies"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«Mission»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Mission statement: what the business does or will do on a daily basis]\" tooltip=\"A Mission describes the ongoing operational activities of the enterprise, outlining what the business does or will do on a daily basis. It makes the Vision actionable by detailing the continuous activities that bring the Vision to life. Strategies are used to plan the Mission.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"217\" height=\"51\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 217,
+    "h": 51,
+    "aspect": "fixed",
+    "title": "Mission"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«Goal»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Goal statement: a high-level, long-term target to achieve]\" tooltip=\"A Goal is a high-level, long-term target that the organization strives to achieve. Goals are broad and provide a general direction for the business.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"204\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Goal"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«Objective»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Objective&amp;amp;nbsp;statement: specific, measurable, and time-bound target]\" tooltip=\"A Vision is a broad, aspirational statement that describes the future state the organization aims to achieve. It provides a long-term direction and inspiration for the business.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"216\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 216,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Objective"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«Strategy»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Strategy statement:&amp;amp;nbsp; a high-level plan or approach to achieve goals and objectives]\" tooltip=\"A Strategy is a key component of the plan for the Mission, representing the essential Course of Action to achieve Ends, particularly Goals. It channels efforts towards these Goals and is more than just a resource, skill, or competency. A Strategy is the chosen approach by the enterprise to achieve its Goals, considering environmental constraints and risks.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"204\" height=\"76\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 76,
+    "aspect": "fixed",
+    "title": "Strategy"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«Tactic»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Tactic statement: a specific action or method used to implement a Strategy and achieve short-term objective]\" tooltip=\"A Tactic is a specific Course of Action that details part of a Strategy. It implements the Strategy by outlining specific actions to be taken.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"204\" height=\"73\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 73,
+    "aspect": "fixed",
+    "title": "Tactic"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«Business Policy»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Policy statement:&amp;amp;nbsp;&amp;amp;nbsp;directive that provides guidelines or principles to govern or guide the enterprise's actions and decisions]\" tooltip=\"A Business Policy is a Directive that is not directly enforceable but serves to govern or guide the enterprise. Business Policies provide the foundation for Business Rules and also govern Business Processes.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"204\" height=\"76\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 76,
+    "aspect": "fixed",
+    "title": "Business Policy"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«Business Rule»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Rule statement:&amp;amp;nbsp;&amp;amp;nbsp;a specific, enforceable directive that governs or guides business behavior]\" tooltip=\"A Business Rule is a Directive intended to govern, guide, or influence business behavior in support of a Business Policy. It is formulated in response to an Opportunity, Threat, Strength, or Weakness and does not require additional interpretation to undertake Strategies or Tactics. Business Rules are often derived from Business Policies and guide Business Processes.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"2.2737367544323206e-13\" width=\"204\" height=\"76\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 76,
+    "aspect": "fixed",
+    "title": "Business Rule"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«External Influencer»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Explanation: a factor originating outside the enterprise that can impact its operations, strategies, or goals]\" tooltip=\"An External Influencer is a factor originating outside the enterprise that can impact its operations, strategies, or goals. Examples include market trends, economic conditions, regulatory changes, and competitive actions.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"204\" height=\"76\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 76,
+    "aspect": "fixed",
+    "title": "External Influencer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«Internal Influencer»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Explanation: a factor originating within the enterprise that can affect its performance and decision-making]\" tooltip=\"An Internal Influencer is a factor originating within the enterprise that can affect its performance and decision-making. Examples include organizational culture, internal policies, employee skills, and available resources.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"204\" height=\"76\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 76,
+    "aspect": "fixed",
+    "title": "Internal Influencer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«Influencing Organization»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Explanation: &amp;amp;nbsp;an external entity that impacts the enterprise]\" tooltip=\"An Influencing Organization is an external entity that impacts the enterprise being modeled in the BMM. It is the source of Influencers that affect the enterprise.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"204\" height=\"76\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 76,
+    "aspect": "fixed",
+    "title": "Influencing Organization"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«Regulation»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Explanation: an order prescribed by an authority such as a government body or the management of an enterprise.]\" tooltip=\"An order prescribed by an authority such as a government body or the management of an enterprise.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"204\" height=\"76\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 204,
+    "h": 76,
+    "aspect": "fixed",
+    "title": "Regulation"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Assessment&amp;amp;gt;&amp;amp;gt;\" tooltip=\"Assessments are judgments of some Influencers that affects the organization’s ability to employ its Means or achieve its&amp;#10;Ends.\" id=\"2\"&gt;&lt;mxCell style=\"swimlane;whiteSpace=wrap;html=1;\" vertex=\"1\" collapsed=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"126\" height=\"26\" as=\"geometry\"&gt;&lt;mxRectangle x=\"-392\" y=\"-94\" width=\"200\" height=\"200\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 126,
+    "h": 26,
+    "aspect": "fixed",
+    "title": "Assessment"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«Vision»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Vision statement: the future state the organization aims to achieve]\" tooltip=\"A Vision is a broad, aspirational statement that describes the future state the organization aims to achieve. It provides a long-term direction and inspiration for the business.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"203\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 202.99999999999997,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Vision"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Affects Employment Of&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An Assessment Affects Employment Of Means\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Affects Employment Of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Affects Achievement Of&amp;amp;gt;&amp;amp;gt;\" tooltip=\"Assessment Affects Achievement Of an End\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Affects Achievement Of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;lt;b&amp;gt;«Assessment»&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt;[Assessment statement:&amp;amp;nbsp;a judgment of some Influencer that affects the organization’s ability to employ its Means or achieve its&amp;lt;br&amp;gt;&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;Ends.&amp;lt;/span&amp;gt;]\" tooltip=\"An Assessment is a judgment of some Influencer that affects the organization’s ability to employ its Means or achieve its&amp;#10;Ends.\" id=\"2\"&gt;&lt;mxCell style=\"html=1;whiteSpace=wrap;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"277\" height=\"82\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 277,
+    "h": 82,
+    "aspect": "fixed"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Delivers&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Business Process Delivers an Offering\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Delivers"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Effects Enforcement Level Of&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Tactic Effects Enforcement Level Of a Business Rule\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Effects Enforcement Level Of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Categorizes&amp;amp;gt;&amp;amp;gt;\" tooltip=\"Broader Influencer Category Categorizes more Specific Influencer\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Categorizes"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Enables&amp;amp;gt;&amp;amp;gt;\" tooltip=\"Enabling Course of Action Enables Enabled Course of Action\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Enables"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Determines&amp;amp;gt;&amp;amp;gt;\" tooltip=\"Strategy Determines an Organization Unit\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Determines"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Channels Efforts Towards&amp;amp;gt;&amp;amp;gt;\" tooltip=\"Course of Action Channels Efforts Towards desired result\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Channels Efforts Towards"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Discharges&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Course of Action Discharges a Liability\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Discharges"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Affects As&amp;amp;gt;&amp;amp;gt;\" tooltip=\"Directive Acts As a Regulation\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Affects As"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Defines&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An Organization Unit Defines an End\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Defines"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Discharges&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Course of Action Discharges a Liability\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Discharges"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Affects As&amp;amp;gt;&amp;amp;gt;\" tooltip=\"Directive Acts As a Regulation\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Affects As"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Claims&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Liability Claims a Resource\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Claims"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Deploys&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Course of Action Deploys an Asset\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Deploys"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Supports Achievement Of&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Directive Supports Achievement Of a Desired Result\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" y=\"-7.105427357601002e-14\" as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"-7.105427357601002e-14\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Supports Achievement Of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Is Responsible For&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An Organization Unit Is Responsible For an Asset\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Is Responsible For"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Governs&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Business Policy Governs a Business Process\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Governs"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Establishes&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An Organization Unit Establishes a Means\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Establishes"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Recognizes&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An Organization Unit Recognizes an Influencer\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Recognizes"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Is Source Of&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An Influencing Organization Is Source Of an Influencer\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Is Source Of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Uses&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Using Assessment Uses a Used Assessment\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Uses"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Requires&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An Offering Requires a Resource\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" y=\"-7.105427357601002e-14\" as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"-7.105427357601002e-14\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Requires"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Makes&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An Organization Unit Makes an Assessment\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Makes"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Guides&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Business Rule Guides a Business Process\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" y=\"-8.526512829121202e-14\" as=\"sourcePoint\"/&gt;&lt;mxPoint y=\"-8.526512829121202e-14\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Guides"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Governs Use Of&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Directive Governs Use Of an Asset\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Governs Use Of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Provides Impetus For&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Potential Impact Provides Impetus For a Directive\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Provides Impetus For"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Is Judgment Of&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An Assessment Is Judgment Of an Influencer\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Is Judgment Of"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Makes Operative&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Mission Makes Operative a Vision\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Makes Operative"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Realizes&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Business Process Realizes a Course Of Action\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Realizes"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Quantifies&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An Objective Quantifies a Goal\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Quantifies"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Is Formulated Based On&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Course of Action Is Formulated Based On a Directive\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Is Formulated Based On"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Manages&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Business Process Manages an Asset\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Manages"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Identifies&amp;amp;gt;&amp;amp;gt;\" tooltip=\"An Assessment Identifies a Potential Impact\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Identifies"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Provides&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Fixed Asset Provides a Resource\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Provides"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Implements&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Tactic Implements a Strategy\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Implements"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Includes&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Broader Business Policy Includes a more specific Business Policy\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Includes"
+  }
+]</mxlibrary>

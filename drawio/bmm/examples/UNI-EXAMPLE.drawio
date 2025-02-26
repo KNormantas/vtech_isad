@@ -1,0 +1,167 @@
+<mxfile host="Electron" modified="2025-02-26T06:30:28.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="cIVXRMM1w5JvrFcYMxLf" version="23.0.2" type="device">
+  <diagram name="Page-1" id="p2BPDg9jxZjePueaDm7e">
+    <mxGraphModel dx="2268" dy="1287" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="&amp;lt;&amp;lt;End&amp;gt;&amp;gt;" tooltip="An End represents the ultimate outcomes that the business aims to achieve. It encompasses the overall aspirations and desired states that guide the organization&#39;s efforts." id="hP1qpWTvxKmi9HbJ8WEG-1">
+          <mxCell style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="449" y="-137" width="607" height="395" as="geometry">
+              <mxRectangle x="245" y="-141" width="86" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Vision»&lt;/b&gt;&lt;br&gt;To be recognized as a leading institution for innovative and impactful master&#39;s thesis research.." tooltip="A Vision is a broad, aspirational statement that describes the future state the organization aims to achieve. It provides a long-term direction and inspiration for the business." id="hP1qpWTvxKmi9HbJ8WEG-5">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-1" vertex="1">
+            <mxGeometry x="29" y="43" width="549" height="63" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;lt;&amp;lt;Desired Result&amp;gt;&amp;gt;" tooltip="A Desired Result is a specific outcome that the organization wants to achieve. It can be further categorized into goals and objectives. Desired results are more concrete and measurable compared to the vision." id="hP1qpWTvxKmi9HbJ8WEG-4">
+          <mxCell style="swimlane;whiteSpace=wrap;html=1;" parent="hP1qpWTvxKmi9HbJ8WEG-1" vertex="1">
+            <mxGeometry x="25" y="134" width="553" height="242" as="geometry">
+              <mxRectangle x="50" y="139" width="147" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Goal»&lt;/b&gt;&lt;br&gt;Provide additional research funding and resources to students." tooltip="A Goal is a high-level, long-term target that the organization strives to achieve. Goals are broad and provide a general direction for the business." id="hP1qpWTvxKmi9HbJ8WEG-7">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-4" vertex="1">
+            <mxGeometry x="15" y="53" width="254" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Goal»&lt;/b&gt;&lt;br&gt;Implement a comprehensive thesis support program, including workshops and mentorship." tooltip="A Goal is a high-level, long-term target that the organization strives to achieve. Goals are broad and provide a general direction for the business." id="hP1qpWTvxKmi9HbJ8WEG-8">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-4" vertex="1">
+            <mxGeometry x="284" y="53" width="254" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Objective»&lt;/b&gt;&lt;br&gt;Increase the number of published theses in reputable journals by 20% over the next three years." tooltip="A Vision is a broad, aspirational statement that describes the future state the organization aims to achieve. It provides a long-term direction and inspiration for the business." id="hP1qpWTvxKmi9HbJ8WEG-10">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-4" vertex="1">
+            <mxGeometry x="15" y="146" width="254" height="71" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Objective»&lt;/b&gt;&lt;br&gt;Enhance student satisfaction with the thesis process by 15% within two years." tooltip="A Vision is a broad, aspirational statement that describes the future state the organization aims to achieve. It provides a long-term direction and inspiration for the business." id="hP1qpWTvxKmi9HbJ8WEG-11">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-4" vertex="1">
+            <mxGeometry x="287" y="146" width="252" height="71" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;lt;&amp;lt;Quantifies&amp;gt;&amp;gt;" tooltip="An Objective Quantifies a Goal" id="hP1qpWTvxKmi9HbJ8WEG-26">
+          <mxCell style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="hP1qpWTvxKmi9HbJ8WEG-4" source="hP1qpWTvxKmi9HbJ8WEG-10" target="hP1qpWTvxKmi9HbJ8WEG-7" edge="1">
+            <mxGeometry x="-0.2093" y="-7" relative="1" as="geometry">
+              <mxPoint x="204" y="162" as="sourcePoint" />
+              <mxPoint x="49" y="162" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;lt;&amp;lt;Quantifies&amp;gt;&amp;gt;" tooltip="An Objective Quantifies a Goal" id="hP1qpWTvxKmi9HbJ8WEG-27">
+          <mxCell style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.535;entryY=1.001;entryDx=0;entryDy=0;exitX=0.537;exitY=0.015;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" parent="hP1qpWTvxKmi9HbJ8WEG-4" source="hP1qpWTvxKmi9HbJ8WEG-11" target="hP1qpWTvxKmi9HbJ8WEG-8" edge="1">
+            <mxGeometry x="-0.4827" y="-12" relative="1" as="geometry">
+              <mxPoint x="412.5" y="142.5" as="sourcePoint" />
+              <mxPoint x="412.5" y="99.5" as="targetPoint" />
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;lt;&amp;lt;Means&amp;gt;&amp;gt;" tooltip="A Means is some &quot;device, capability, regime, technique, restriction, agency, instrument, or method that may be called upon, activated, or enforced to achieve Ends.&quot; It does not include the tasks (business processes and workflow) necessary to exploit it, or responsibility for such tasks. Typically Means are organized into Mission, Courses of Action, and Directives." id="hP1qpWTvxKmi9HbJ8WEG-2">
+          <mxCell style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+            <mxGeometry x="-199" y="-141" width="617" height="733" as="geometry">
+              <mxRectangle x="-199" y="-141" width="116" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;lt;&amp;lt;Course of Action&amp;gt;&amp;gt;" tooltip="Courses of Action are the decisions made by the enterprise about what actions to take. They go beyond just resources, skills, or competencies, and involve configuring various aspects of the enterprise (such as processes, locations, people, and time) to direct efforts towards achieving Desired Results. They represent the enterprise&#39;s chosen methods for utilizing its resources, skills, and competencies effectively." id="hP1qpWTvxKmi9HbJ8WEG-3">
+          <mxCell style="swimlane;whiteSpace=wrap;html=1;" parent="hP1qpWTvxKmi9HbJ8WEG-2" vertex="1">
+            <mxGeometry x="28" y="169" width="570" height="243" as="geometry">
+              <mxRectangle x="30" y="92" width="132" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Strategy»&lt;/b&gt;&lt;br&gt;Develop partnerships with industry and academic institutions to secure funding and resources." tooltip="A Strategy is a key component of the plan for the Mission, representing the essential Course of Action to achieve Ends, particularly Goals. It channels efforts towards these Goals and is more than just a resource, skill, or competency. A Strategy is the chosen approach by the enterprise to achieve its Goals, considering environmental constraints and risks." id="hP1qpWTvxKmi9HbJ8WEG-12">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-3" vertex="1">
+            <mxGeometry x="38" y="40" width="204" height="76" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Strategy»&lt;/b&gt;&lt;br&gt;Create a structured thesis support program with regular workshops, seminars, and one-on-one mentoring sessions." tooltip="A Strategy is a key component of the plan for the Mission, representing the essential Course of Action to achieve Ends, particularly Goals. It channels efforts towards these Goals and is more than just a resource, skill, or competency. A Strategy is the chosen approach by the enterprise to achieve its Goals, considering environmental constraints and risks." id="hP1qpWTvxKmi9HbJ8WEG-13">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-3" vertex="1">
+            <mxGeometry x="322" y="38" width="204" height="76" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Tactic»&lt;/b&gt;&lt;br&gt;Organize monthly workshops on research methodologies and academic writing." tooltip="A Tactic is a specific Course of Action that details part of a Strategy. It implements the Strategy by outlining specific actions to be taken." id="hP1qpWTvxKmi9HbJ8WEG-14">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-3" vertex="1">
+            <mxGeometry x="36.00000000000023" y="154" width="204" height="73" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Tactic»&lt;/b&gt;&lt;br&gt;Establish a mentorship program pairing students with experienced faculty members." tooltip="A Tactic is a specific Course of Action that details part of a Strategy. It implements the Strategy by outlining specific actions to be taken." id="hP1qpWTvxKmi9HbJ8WEG-15">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-3" vertex="1">
+            <mxGeometry x="324.0000000000002" y="151" width="204" height="73" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Mission»&lt;/b&gt;&lt;br&gt;To provide a supportive and resource-rich environment that enables students to conduct high-quality research and produce significant contributions to their fields." tooltip="A Mission describes the ongoing operational activities of the enterprise, outlining what the business does or will do on a daily basis. It makes the Vision actionable by detailing the continuous activities that bring the Vision to life. Strategies are used to plan the Mission." id="hP1qpWTvxKmi9HbJ8WEG-6">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-2" vertex="1">
+            <mxGeometry x="30" y="49" width="569" height="82" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;lt;&amp;lt;Directive&amp;gt;&amp;gt;" tooltip="Directives are divided into Business Policies and Business Rules. Business Policies are not directly actionable, while Business Rules are and need to be defined and managed for consistency and completeness. Business Rules are derived from Business Policies." id="hP1qpWTvxKmi9HbJ8WEG-17">
+          <mxCell style="swimlane;whiteSpace=wrap;html=1;" parent="hP1qpWTvxKmi9HbJ8WEG-2" vertex="1">
+            <mxGeometry x="28" y="428" width="570" height="279" as="geometry">
+              <mxRectangle x="347" y="167" width="126" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Business Policy»&lt;/b&gt;&lt;br&gt;All thesis proposals must be reviewed and approved by a faculty committee." tooltip="A Business Policy is a Directive that is not directly enforceable but serves to govern or guide the enterprise. Business Policies provide the foundation for Business Rules and also govern Business Processes." id="hP1qpWTvxKmi9HbJ8WEG-18">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-17" vertex="1">
+            <mxGeometry x="26" y="65" width="204" height="76" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Business Policy»&lt;/b&gt;&lt;br&gt;Students must attend at least three thesis support workshops during their research period." tooltip="A Business Policy is a Directive that is not directly enforceable but serves to govern or guide the enterprise. Business Policies provide the foundation for Business Rules and also govern Business Processes." id="hP1qpWTvxKmi9HbJ8WEG-19">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-17" vertex="1">
+            <mxGeometry x="315" y="65" width="204" height="76" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Business Rule»&lt;/b&gt;&lt;br&gt;Thesis proposals must be submitted at least six months before the intended graduation date." tooltip="A Business Rule is a Directive intended to govern, guide, or influence business behavior in support of a Business Policy. It is formulated in response to an Opportunity, Threat, Strength, or Weakness and does not require additional interpretation to undertake Strategies or Tactics. Business Rules are often derived from Business Policies and guide Business Processes." id="hP1qpWTvxKmi9HbJ8WEG-20">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-17" vertex="1">
+            <mxGeometry x="30.000000000000227" y="177" width="204" height="76" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Business Rule»&lt;/b&gt;&lt;br&gt;Students must submit progress reports every three months to their assigned mentors." tooltip="A Business Rule is a Directive intended to govern, guide, or influence business behavior in support of a Business Policy. It is formulated in response to an Opportunity, Threat, Strength, or Weakness and does not require additional interpretation to undertake Strategies or Tactics. Business Rules are often derived from Business Policies and guide Business Processes." id="hP1qpWTvxKmi9HbJ8WEG-21">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-17" vertex="1">
+            <mxGeometry x="315" y="179" width="204" height="77" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;lt;&amp;lt;Influencer&amp;gt;&amp;gt;" tooltip="An Influencer is any factor that can cause changes impacting the enterprise&#39;s use of its Means or the achievement of its Ends. It can also confirm the absence of expected changes. Influencers can be either internal (originating within the enterprise) or external (originating outside the enterprise)." id="hP1qpWTvxKmi9HbJ8WEG-22">
+          <mxCell style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+            <mxGeometry x="450" y="455" width="606" height="242" as="geometry">
+              <mxRectangle x="-177" y="712" width="120" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Internal Influencer»&lt;/b&gt;&lt;br&gt;&amp;nbsp;Availability of faculty mentors, university funding for research." tooltip="An Internal Influencer is a factor originating within the enterprise that can affect its performance and decision-making. Examples include organizational culture, internal policies, employee skills, and available resources." id="hP1qpWTvxKmi9HbJ8WEG-23">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-22" vertex="1">
+            <mxGeometry x="33" y="47" width="204" height="76" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Influencing Organization»&lt;/b&gt;&lt;br&gt;&lt;div&gt;Academic journals and publishers.&lt;/div&gt;&lt;div&gt;Partnering industry organizations.&lt;/div&gt;" tooltip="An Influencing Organization is an external entity that impacts the enterprise being modeled in the BMM. It is the source of Influencers that affect the enterprise." id="hP1qpWTvxKmi9HbJ8WEG-24">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-22" vertex="1">
+            <mxGeometry x="30" y="141" width="204" height="76" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«External Influencer»&lt;/b&gt;&lt;br&gt;Changes in academic publishing standards, industry demand for specific research areas." tooltip="An External Influencer is a factor originating outside the enterprise that can impact its operations, strategies, or goals. Examples include market trends, economic conditions, regulatory changes, and competitive actions." id="hP1qpWTvxKmi9HbJ8WEG-25">
+          <mxCell style="html=1;whiteSpace=wrap;" parent="hP1qpWTvxKmi9HbJ8WEG-22" vertex="1">
+            <mxGeometry x="350" y="41" width="204" height="76" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&amp;lt;&amp;lt;Assessment&amp;gt;&amp;gt;" tooltip="Assessments are judgments of some Influencers that affects the organization’s ability to employ its Means or achieve its&#xa;Ends." id="33MlbjpWQUjK8lD807qd-1">
+          <mxCell style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="452" y="274" width="600" height="162" as="geometry">
+              <mxRectangle x="593" y="329" width="126" height="26" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;«Assessment»&lt;/b&gt;&lt;br&gt;[Assessment statement:&amp;nbsp;a judgment of some Influencer that affects the organization’s ability to employ its Means or achieve its&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ends.&lt;/span&gt;]" tooltip="An Assessment is a judgment of some Influencer that affects the organization’s ability to employ its Means or achieve its&#xa;Ends." id="33MlbjpWQUjK8lD807qd-2">
+          <mxCell style="html=1;whiteSpace=wrap;" vertex="1" parent="33MlbjpWQUjK8lD807qd-1">
+            <mxGeometry x="171" y="49" width="277" height="82" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
