@@ -403,5 +403,10 @@
     "h": 1,
     "aspect": "fixed",
     "title": "Includes"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"&amp;amp;lt;&amp;amp;lt;Is Basis For&amp;amp;gt;&amp;amp;gt;\" tooltip=\"A Business Policy is a basis for a Business Rule\" id=\"2\"&gt;&lt;mxCell style=\"html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"155\" as=\"sourcePoint\"/&gt;&lt;mxPoint as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 155,
+    "h": 0.8333333333333334
   }
 ]</mxlibrary>
