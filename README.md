@@ -16,7 +16,7 @@ Feel free to explore and utilize these resources to enhance your learning experi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/knormantas/vtech_isad.git
     ```
 
 2. Open the desired files in draw.io or any compatible tool.
