@@ -11,6 +11,7 @@ Feel free to explore and utilize these resources to enhance your learning experi
 
 - `drawio/bmm/lib/`: Contains draw.io library for Business Motivation Model (BMM).
 - `drawio/bmm/examples/`: Contains example draw.io diagrams for BMM.
+- `drawio/mis-stencils/`: Contains MIS stencils converted from VISIO to DRAW.IO for quick usage ([source](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio))
 
 ## Usage
 
